@@ -1,0 +1,22 @@
+market-sentiment-dashboard/
+│
+├── app.py
+│
+├── data/
+│   ├── market_data.py
+│   ├── reddit_sentiment.py
+│   ├── twitter_sentiment.py     (optional placeholder)
+│   ├── google_trends.py
+│   ├── news_sentiment.py
+│
+├── ml/
+│   ├── next_day_prediction.py
+│
+├── wordclouds/
+│   ├── generate_wordclouds.py
+│
+├── assets/
+│   ├── style.css
+│
+├── requirements.txt
+└── README.md
