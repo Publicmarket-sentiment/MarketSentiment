@@ -1,0 +1,19 @@
+dash>=2.9
+pandas
+numpy
+yfinance
+requests
+pytrends
+textblob
+vaderSentiment
+diskcache
+tqdm
+python-dotenv
+plotly
+scikit-learn
+sniffio
+# optional for reddit/twitter scraping
+praw
+snscrape
+beautifulsoup4
+newspaper3k
